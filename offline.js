@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1584828041,
+	"version": 1584913264,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -27,6 +27,7 @@
 		"images/pacman-sheet0.png",
 		"images/pacman-sheet1.png",
 		"images/fantasma-sheet0.png",
+		"images/fantasma-sheet1.png",
 		"images/flecha_derecha-sheet0.png",
 		"images/flecha_arriba-sheet0.png",
 		"images/flecha_izquierda-sheet0.png",
@@ -37,6 +38,7 @@
 		"images/muro_rompible-sheet0.png",
 		"images/muro_fijo-sheet0.png",
 		"images/muro_movible-sheet0.png",
+		"images/sprite6-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
